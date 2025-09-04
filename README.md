@@ -1,6 +1,6 @@
 # DNA Database Manager
 
-The DNA Database Manager is a command-line utility, developed in C++, and engineered for the management and manipulation of DNA sequences derived from FASTA (`.fna`) formatted files. This application facilitates the loading of multiple DNA sequences into an in-memory database, enabling a comprehensive suite of search and modification operations, with the capability to persist the results. The program leverages a custom, linked-list-based data structure to ensure efficient processing and handling of substantial DNA sequence data.
+The DNA Database Manager is a command-line utility, developed in C++, engineered for the management and manipulation of DNA sequences derived from FASTA (`.fna`) formatted files. This application facilitates the loading of multiple DNA sequences into an in-memory database, enabling a comprehensive suite of search and modification operations, with the capability to persist the results. The program leverages a custom, linked-list-based data structure to ensure efficient processing and handling of substantial DNA sequence data.
 
 ## Core Functionality
 
